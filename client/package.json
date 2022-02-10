@@ -41,7 +41,7 @@
     "lodash.flowright": "^3.5.0",
     "mini-css-extract-plugin": "0.9.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "optimize-css-assets-webpack-plugin": "5.0.3",
     "pdfjs-dist": "^2.3.200",
     "pnp-webpack-plugin": "1.6.4",
